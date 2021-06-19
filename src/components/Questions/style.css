@@ -1,0 +1,11 @@
+.margQa {
+    margin: 100px 0 50px 0;
+}
+
+
+@media (max-width: 500px) {
+    .margQa  {
+        margin: 50px 0 50px 0;
+    }
+
+}

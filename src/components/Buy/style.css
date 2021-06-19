@@ -1,0 +1,24 @@
+
+.gradient-head {
+    background: rgb(2,0,36);
+    background: linear-gradient(168deg, rgba(2,0,36,1) 0%, rgba(255,255,255,1) 0%, rgba(0,95,255,0.1407913507199755) 100%);
+}
+
+.margBuy {
+    margin-top: 70px;
+}
+
+.margBuyChapt {
+    margin: 20px 0;
+}
+
+
+.margButton {
+    margin-top: 1px;
+}
+
+.shadow {
+    box-shadow: 10px 5px 5px #b5b6c0;
+}
+
+

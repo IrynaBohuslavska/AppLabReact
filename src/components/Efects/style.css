@@ -1,0 +1,13 @@
+.margEfects {
+    margin-top: 70px;
+}
+
+.margEfectsPhoto {
+    margin-bottom: 20px;
+}
+
+@media (max-width: 500px) {
+    .margEfects {
+        margin-top: 20px;
+    }
+}

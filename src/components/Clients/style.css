@@ -1,0 +1,28 @@
+.checked {
+    color: orange;
+}
+
+.margClients {
+    margin-top: 70px;
+}
+
+
+.starMarg {
+    margin: 15px 0;
+}
+
+.button-please {
+    margin-left: 0;
+}
+
+
+
+@media (max-width: 500px) {
+    .margClients {
+        margin-top: 30px;
+    }
+
+    .button-please {
+        margin-left: 30%;
+    }
+}

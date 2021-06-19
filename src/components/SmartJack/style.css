@@ -1,0 +1,22 @@
+.margSmart {
+    margin-top: 70px;
+}
+
+.bord {
+    border-right: 1px solid gray;
+}
+
+@media (max-width: 500px) {
+    .margSmart {
+        margin-top: 25px;
+    }
+
+    .sizeText {
+        font-size: medium;
+    }
+
+    .sizeTextP {
+     font-size: small;
+    }
+
+}

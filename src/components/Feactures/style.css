@@ -1,0 +1,14 @@
+.padChapter {
+    padding: 20px 0 0 0;
+}
+
+.margFeasch {
+    margin-top: 50px;
+}
+
+@media (max-width: 500px) {
+    .margFeasch {
+        margin-top: 0;
+    }
+}
+

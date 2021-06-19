@@ -1,0 +1,9 @@
+.margin {
+    margin-left: 100px;
+}
+
+@media (max-width: 500px) {
+    .button-navvbar {
+        margin-left: 35%;
+    }
+}

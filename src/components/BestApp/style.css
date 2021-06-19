@@ -1,0 +1,22 @@
+.margHead {
+    margin-top: 90px;
+}
+.bg1 {
+    background-image: url("./photo.png");
+    background-repeat-y: no-repeat;
+    background-repeat-x: repeat;
+    background-position: bottom;
+
+}
+
+.margImg {
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+
+@media (max-width: 500px) {
+    .margHead {
+        margin-top: 25px;
+    }
+
+}

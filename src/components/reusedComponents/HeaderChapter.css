@@ -1,0 +1,23 @@
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.bigH {
+    font-size: large;
+}
+
+.big {
+    font-size: medium;
+}
+
+.smallH {
+    font-size: medium;
+}
+
+.small {
+    font-size: small;
+}

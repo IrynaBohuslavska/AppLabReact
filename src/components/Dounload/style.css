@@ -1,0 +1,14 @@
+.marg {
+    margin-top: 30px;
+}
+
+.comLogo {
+    margin-right: 10px;
+}
+
+@media (max-width: 500px) {
+    .comLogo {
+        margin-right: 20px;
+        padding-left: 20px;
+    }
+}

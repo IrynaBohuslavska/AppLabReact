@@ -1,0 +1,10 @@
+.margTop {
+    margin-top: 70px;
+}
+
+@media (max-width: 500px) {
+    .margHead {
+        margin-top: 25px;
+    }
+
+}
